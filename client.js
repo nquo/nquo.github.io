@@ -81,7 +81,7 @@ function negotiate() {
         }
 
         document.getElementById('offer-sdp').textContent = offer.sdp;
-        return fetch('/offer', {
+        return fetch('https://192.168.1.7/offer', {
             body: JSON.stringify({
                 sdp: offer.sdp,
                 type: offer.type,
