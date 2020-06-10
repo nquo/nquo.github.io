@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6230f45-9dca-42fa-b4e8-6a10f93ad571" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../apprtc/apprtc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apprtc/apprtc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ci56o2G8MuZ5gtD0db2GTThXLF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apprtc" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.https">
+    <configuration name="http" type="PythonConfigurationType" factoryName="Python">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python37x64\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="--write-audio rec_audio.wav --record-to rec_video.mp4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="https" type="PythonConfigurationType" factoryName="Python">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python37x64\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="--cert-file keys/certificate.pem --key-file keys/privatekey.pem --write-audio rec_audio.wav --record-to rec_video.mp4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.http" />
+      <item itemvalue="Python.https" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6230f45-9dca-42fa-b4e8-6a10f93ad571" name="Default Changelist" comment="" />
+      <created>1590998400437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590998400437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1017" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591362450207">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1017" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1591362450207" />
+    <state x="1015" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591361850299">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1015" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1591361850299" />
+    <state x="1035" y="223" key="#xdebugger.evaluate" timestamp="1591190384642">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1035" y="223" key="#xdebugger.evaluate/0.0.2560.1040@0.0.2560.1040" timestamp="1591190384642" />
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1591099667886">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1591099667886" />
+    <state width="2517" height="387" key="GridCell.Tab.0.bottom" timestamp="1591726050117">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1591726050117" />
+    <state width="2517" height="387" key="GridCell.Tab.0.center" timestamp="1591726050117">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1591726050117" />
+    <state width="2517" height="387" key="GridCell.Tab.0.left" timestamp="1591726050117">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1591726050117" />
+    <state width="2517" height="387" key="GridCell.Tab.0.right" timestamp="1591726050117">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1591726050117" />
+    <state width="2517" height="387" key="GridCell.Tab.1.bottom" timestamp="1591726050117">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1591726050117" />
+    <state width="2517" height="387" key="GridCell.Tab.1.center" timestamp="1591726050117">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1591726050117" />
+    <state width="2517" height="387" key="GridCell.Tab.1.left" timestamp="1591726050117">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1591726050117" />
+    <state width="2517" height="387" key="GridCell.Tab.1.right" timestamp="1591726050117">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="387" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1591726050117" />
+    <state x="781" y="165" key="SettingsEditor" timestamp="1591008966010">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="165" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1591008966010" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591119064407">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1591119064407" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python37x64/Lib/site-packages/aiortc/rtcpeerconnection.py</url>
+          <line>1117</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python37x64/Lib/site-packages/aiortc/rtcpeerconnection.py</url>
+          <line>751</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python37x64/Lib/site-packages/aiortc/rtcpeerconnection.py</url>
+          <line>1088</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
