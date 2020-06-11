@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6230f45-9dca-42fa-b4e8-6a10f93ad571" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../apprtc/apprtc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apprtc/apprtc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keys/certificate.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/keys/privatekey.pem" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +24,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../apprtc" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.http">
+  <component name="RunManager" selected="Python.https">
     <configuration name="http" type="PythonConfigurationType" factoryName="Python">
       <module name="server" />
       <option name="INTERPRETER_OPTIONS" value="" />
