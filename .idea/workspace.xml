@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b6230f45-9dca-42fa-b4e8-6a10f93ad571" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../apprtc/apprtc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apprtc/apprtc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/client.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +26,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../apprtc" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.https">
+  <component name="RunManager" selected="Python.http">
     <configuration name="http" type="PythonConfigurationType" factoryName="Python">
       <module name="server" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,22 +104,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1591099667886" />
-    <state width="2517" height="342" key="GridCell.Tab.0.bottom" timestamp="1591812445343">
+    <state width="2517" height="342" key="GridCell.Tab.0.bottom" timestamp="1591862716888">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="342" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1591812445343" />
-    <state width="2517" height="342" key="GridCell.Tab.0.center" timestamp="1591812445343">
+    <state width="2517" height="342" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1591862716888" />
+    <state width="2517" height="342" key="GridCell.Tab.0.center" timestamp="1591862716888">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="342" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1591812445343" />
-    <state width="2517" height="342" key="GridCell.Tab.0.left" timestamp="1591812445343">
+    <state width="2517" height="342" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1591862716888" />
+    <state width="2517" height="342" key="GridCell.Tab.0.left" timestamp="1591862716887">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="342" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1591812445343" />
-    <state width="2517" height="342" key="GridCell.Tab.0.right" timestamp="1591812445343">
+    <state width="2517" height="342" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1591862716887" />
+    <state width="2517" height="342" key="GridCell.Tab.0.right" timestamp="1591862716888">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="342" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1591812445343" />
+    <state width="2517" height="342" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1591862716888" />
     <state width="2517" height="387" key="GridCell.Tab.1.bottom" timestamp="1591726050117">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
